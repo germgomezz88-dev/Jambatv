@@ -156,7 +156,7 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4794
 #EXTINF:-1 tvg-id="" tvg-name="ARG: PARAMOUNT" tvg-logo="https://docdog.top/logo/countries//argentina/paramount-network-ar.png" group-title="LAME | ARGENTINA VIP",ARG: PARAMOUNT
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4795
 #EXTINF:-1 tvg-id="" tvg-name="ARG: PX SPORTS" tvg-logo="https://asiagrandiptv.us/logo/pxsports.png" group-title="|DEPORTES  ARGENTINA VIP",ARG: PX SPORTS
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4796
+https://vimeos.net/embed-f7f4chi2lye0.html
 #EXTINF:-1 tvg-id="" tvg-name="ARG: QUIERO MUSICA" tvg-logo="https://docdog.top/logo/countries//argentina/quiero-musica-en-mi-idioma-ar.png" group-title="LAME | ARGENTINA VIP",ARG: QUIERO MUSICA
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4797
 #EXTINF:-1 tvg-id="" tvg-name="ARG: RAI" tvg-logo="https://docdog.top/logo/countries/argentina/rai.png" group-title="LAME | ARGENTINA VIP",ARG: RAI
