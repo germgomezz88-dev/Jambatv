@@ -1,15 +1,15 @@
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="| DEPORTES VIP",ES: (HD REPUESTO) DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DEPORTES",ES: (HD REPUESTO) DAZN F1
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/97147
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="| DEPORTES VIP",ES: (FHD) DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DEPORTES",ES: (FHD) DAZN F1
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/251
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (FHD REPUESTO) DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DEPORTES",ES: (FHD REPUESTO) DAZN F1
 #EXTINF:-1 tvg-id="" tvg-name="ARG: A&E" tvg-logo="https://docdog.top/logo/countries/argentina/AE.jpg" group-title="LAME | ARGENTINA VIP",ARG: A&E
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4720
 #EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="LAME | ARGENTINA VIP",ARG: AMC
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4721
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA 24" tvg-logo="https://docdog.top/logo/countries/argentina/america24.png" group-title="LAME | ARGENTINA VIP",ARG: AMERICA 24
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA 24" tvg-logo="https://docdog.top/logo/countries/argentina/america24.png" group-title="LAME | ARGENTINA ",ARG: AMERICA 24
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4722
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV" tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA VIP",ARG: AMERICA TV
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV" tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA ",ARG: AMERICA TV
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4723
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ARGENTINISIMA" tvg-logo="https://docdog.top/logo/countries/argentina/ARGENTINISIMA.png" group-title="LAME | ARGENTINA VIP",ARG: ARGENTINISIMA
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4724
@@ -19,9 +19,9 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4725
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4726
 #EXTINF:-1 tvg-id="" tvg-name="ARG: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/argentina/boomeranglow.png" group-title="LAME | ARGENTINA VIP",ARG: BOOMERANG
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4727
-#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="https://docdog.top/logo/countries//argentina/c5n-ar.png" group-title="LAME | ARGENTINA VIP",ARG: C5N
+#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="https://docdog.top/logo/countries//argentina/c5n-ar.png" group-title="LAME | ARGENTINA ",ARG: C5N
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4728
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="LAME | ARGENTINA VIP",ARG: EL TRECE (CANAL 13)
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="LAME | ARGENTINA ",ARG: EL TRECE (CANAL 13)
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4729
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 21" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL21.png" group-title="LAME | ARGENTINA VIP",ARG: CANAL 21
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4730
@@ -31,7 +31,7 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4731
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4732
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 4" tvg-logo="https://docdog.top/logo/countries//argentina/canal-4-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CANAL 4
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4733
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL9.png" group-title="LAME | ARGENTINA VIP",ARG: EL NUEVE (CANAL 9)
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL9.png" group-title="LAME | ARGENTINA ",ARG: EL NUEVE (CANAL 9)
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4734
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 SALTA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALSALTA.jpg" group-title="LAME | ARGENTINA VIP",ARG: CANAL 9 SALTA
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4735
@@ -43,9 +43,9 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4737
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4738
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CINEAR" tvg-logo="https://docdog.top/logo/countries//argentina/cine-ar-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CINEAR
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4739
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CINECANAL" tvg-logo="https://docdog.top/logo/countries/argentina/cinecanal.png" group-title="LAME | ARGENTINA VIP",ARG: CINECANAL
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINECANAL" tvg-logo="https://docdog.top/logo/countries/argentina/cinecanal.png" group-title="LAME | ARGENTINA ",ARG: CINECANAL
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4740
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="LAME | ARGENTINA VIP",ARG: CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="LAME | ARGENTINA ",ARG: CINEMAX
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4741
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CIUDAD MAGAZINE" tvg-logo="https://docdog.top/logo/countries/argentina/ciudadmagazine.png" group-title="LAME | ARGENTINA VIP",ARG: CIUDAD MAGAZINE
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4742
@@ -55,15 +55,15 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4743
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4744
 #EXTINF:-1 tvg-id="" tvg-name="ARG: COMEDY" tvg-logo="https://docdog.top/logo/countries/argentina/KSCOMEDY.jpg" group-title="LAME | ARGENTINA VIP",ARG: COMEDY
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4745
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CRONICA
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="LAME | ARGENTINA ",ARG: CRONICA
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4746
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DEPORTV FHD" tvg-logo="https://docdog.top/logo/countries/argentina/DEPORTVF.png" group-title=" |DEPORTES |ARGENTINA VIP",ARG: DEPORTV FHD
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DEPORTV FHD" tvg-logo="https://docdog.top/logo/countries/argentina/DEPORTVF.png" group-title="DEPORTES",ARG: DEPORTV FHD
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4747
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: DIRECTV SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="DEPORTES",ARG: DIRECTV SPORTS
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4748
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="|DEPORTES| ARGENTINA VIP",ARG: DIRECTV SPORTS +
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="DEPORTES",ARG: DIRECTV SPORTS +
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4749
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: DIRECTV SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="DEPORTES",ARG: DIRECTV SPORTS 2
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4750
 #EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY" tvg-logo="https://asiagrandiptv.us/logo/disneychannel.png" group-title="LAME | ARGENTINA VIP",ARG: DISNEY
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4751
@@ -77,13 +77,13 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4754
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4755
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ENCUENTRO" tvg-logo="https://docdog.top/logo/countries/argentina/encuentro.png" group-title="LAME | ARGENTINA VIP",ARG: ENCUENTRO
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4756
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="DEPORTES",ARG: ESPN
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4757
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="DEPORTES",ARG: ESPN 2
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4758
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="DEPORTES",ARG: ESPN 3
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4759
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: ESPN+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="DEPORTES",ARG: ESPN+
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4760
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EUROPA" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="LAME | ARGENTINA VIP",ARG: EUROPA
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4761
@@ -93,11 +93,11 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4762
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4763
 #EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: FOX SPORTS 1
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4764
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: FOX SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="|DEPORTES  ARGENTINA VIP",ARG: FOX SPORTS 2
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4765
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: FOX SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="|DEPORTES  ARGENTINA VIP",ARG: FOX SPORTS 3
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4766
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="|DEPORTES  ARGENTINA VIP",ARG: FOX SPORTS PREMIUM
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4767
 #EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FX
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4768
@@ -125,7 +125,7 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4778
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4779
 #EXTINF:-1 tvg-id="" tvg-name="ARG: LIFETIME" tvg-logo="https://docdog.top/logo/countries//argentina/lifetime-ar.png" group-title="LAME | ARGENTINA VIP",ARG: LIFETIME
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4780
-#EXTINF:-1 tvg-id="" tvg-name="ARG: LN" tvg-logo="https://docdog.top/logo/countries/argentina/LN.jpg" group-title="LAME | ARGENTINA VIP",ARG: LN
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LN" tvg-logo="https://docdog.top/logo/countries/argentina/LN.jpg" group-title="LAME | ARGENTINA ",ARG: LN
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4781
 #EXTINF:-1 tvg-id="" tvg-name="ARG: MAS CHIC" tvg-logo="https://docdog.top/logo/countries//argentina/mas-chic-ar.png" group-title="LAME | ARGENTINA VIP",ARG: MAS CHIC
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4782
@@ -177,37 +177,37 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4804
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4805
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TCM" tvg-logo="https://docdog.top/logo/countries//argentina/tcm-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TCM
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4806
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEFE
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA ",ARG: TELEFE
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4807
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMAX" tvg-logo="https://docdog.top/logo/countries//argentina/telemax-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEMAX
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMAX" tvg-logo="https://docdog.top/logo/countries//argentina/telemax-ar.png" group-title="LAME | ARGENTINA ",ARG: TELEMAX
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4808
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMUNDO" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEMUNDO
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4809
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELESUR" tvg-logo="https://docdog.top/logo/countries/argentina/telesur.png" group-title="LAME | ARGENTINA VIP",ARG: TELESUR
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4810
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="LAME | ARGENTINA VIP",ARG: TELEVISION PUBLICA
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="LAME | ARGENTINA ",ARG: TELEVISION PUBLICA
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4811
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TN" tvg-logo="https://docdog.top/logo/countries//argentina/tn-todo-noticias-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TN
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TN" tvg-logo="https://docdog.top/logo/countries//argentina/tn-todo-noticias-ar.png" group-title="LAME | ARGENTINA ",ARG: TN
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4812
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TNT" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4813
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SERIES" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-series-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT SERIES
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4814
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: TNT SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="|DEPORTES  ARGENTINA VIP",ARG: TNT SPORTS
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4815
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TOONCAST" tvg-logo="https://docdog.top/logo/countries//argentina/tooncast-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TOONCAST
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4816
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TRUTV" tvg-logo="https://docdog.top/logo/countries//argentina/tru-tv-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TRUTV
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4817
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="LAME | ARGENTINA VIP",ARG: TV PUBLICA
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="LAME | ARGENTINA ",ARG: TV PUBLICA
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4818
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TV5 MONDE" tvg-logo="https://docdog.top/logo/countries/argentina/TVMONDE.png" group-title="LAME | ARGENTINA VIP",ARG: TV5 MONDE
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4819
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TVE" tvg-logo="https://docdog.top/logo/countries/argentina/tveinternacional.png" group-title="LAME | ARGENTINA VIP",ARG: TVE
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4820
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Tyc sports Internacional" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: Tyc sports Internacional
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Tyc sports Internacional" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="|DEPORTES  ARGENTINA VIP",ARG: Tyc sports Internacional
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4821
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="|DEPORTES | ARGENTINA VIP",ARG: TYC SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="|DEPORTES  ARGENTINA VIP",ARG: TYC SPORTS
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4822
 #EXTINF:-1 tvg-id="" tvg-name="ARG: UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="LAME | ARGENTINA VIP",ARG: UNIVERSAL
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4823
@@ -219,7 +219,7 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4825
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4826
 #EXTINF:-1 tvg-id="" tvg-name="ARG: STAR CHANNEL" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: STAR CHANNEL
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4827
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="|DEPORTES | ARGENTINA VIP",ARG: ESPN PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="|DEPORTES  ARGENTINA VIP",ARG: ESPN PREMIUM
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4828
 
 
