@@ -221,9 +221,9 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4826
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4827
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="|DEPORTES  ARGENTINA VIP",ARG: ESPN PREMIUM
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4828
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://i.postimg.cc/hGLD449F/file-00000000db8861f59d7688a4e4999db5.png" group-title="🎬 | 24/7 PREMIUM",24/7 | EL CHAVO 8.
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://i.postimg.cc/hGLD449F/file-00000000db8861f59d7688a4e4999db5.png" group-title="🎬 | 24/7 ELCHAVO 8",24/7 | EL CHAVO 8.
 http://libertadtv.lat:8080/L1JHKzZNY3FoblUxTTVkQXpGaUd1eEcydmQrbjJyUGNyTmlFNkMxdzRkQTBVQlVpMVJuQXh2anIxVDJWcmVDcQ
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://i.postimg.cc/hGLD449F/file-00000000db8861f59d7688a4e4999db5.png" group-title="🎬 | 24/7 PREMIUM",24/7 | EL CHAVO 8.
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://i.postimg.cc/hGLD449F/file-00000000db8861f59d7688a4e4999db5.png" group-title="🎬 | 24/7 EL CHAVO 8",24/7 | EL CHAVO 8.
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA ",ARG: TELEFE
 http://libertadtv.lat:8080/L1JHKzZNY3FoblUxTTVkQXpGaUd1Ni83WjgxcksxK0lhSHpzbDdmby9NK1RTdTlybHVOQnUweVlWZFordGJnRw
