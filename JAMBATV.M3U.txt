@@ -78,7 +78,7 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4755
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ENCUENTRO" tvg-logo="https://docdog.top/logo/countries/argentina/encuentro.png" group-title="LAME | ARGENTINA VIP",ARG: ENCUENTRO
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4756
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="DEPORTES",ARG: ESPN
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4757
+http://95.143.42.165:8080/WFJobG5hOCtUSHh5VVpDQWJmL2tsemtuQ0VtMEFLbjh1aUZXUzNaUWRsTmhMbFF5N1gvUWNzY0dhd3c2WWtUbDJQMDYwRHEvNjU1aVZlUTl4RkFUR29kWjEvY00vWTFDTXpBQ1l4S0RRSk9ZMGMwQzI0eFdSWk1iK3ppUHdTRFNZaWM5SWtyWUxXTUxONzF3ZHFWaldXTU1zQWhucHpBTjVhQ1Mxa1psaUo3VVkvV1hzS0c3bW1Ta2YwMnpVblo4SHJnN0pPdGEvNmovSE9vT0lrNGJ6Q0s2V2dYZUhOekd1THVPSlJJZFFHYnZFL2x3T0FTVlFDaVZrR0RWRi9IM3RVYWVlWFdvdXovOU1mS1EwdSthU3JsT2lxUlpHOW5ReGl0T056NU9kSXlsUGY3QUg1OE4rUGFta0UvelpFR0FLc2o1MlBtVXVUT3lVa1dVemw1alN3PT0
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="DEPORTES",ARG: ESPN 2
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4758
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="DEPORTES",ARG: ESPN 3
