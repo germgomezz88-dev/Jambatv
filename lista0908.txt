@@ -221,7 +221,7 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4826
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4827
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="|DEPORTES  ARGENTINA VIP",ARG: ESPN PREMIUM
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4828
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://i.postimg.cc/hGLD449F/file-00000000db8861f59d7688a4e4999db5.png" group-title="🎬 | 24/7 ELCHAVO 8",24/7 | EL CHAVO 8.
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://i.postimg.cc/hGLD449F/file-00000000db8861f59d7688a4e4999db5.png" group-title="🎬 | 24/7 EL CHAVO 8",24/7 | EL CHAVO 8.
 http://libertadtv.lat:8080/L1JHKzZNY3FoblUxTTVkQXpGaUd1eEcydmQrbjJyUGNyTmlFNkMxdzRkQTBVQlVpMVJuQXh2anIxVDJWcmVDcQ
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://i.postimg.cc/hGLD449F/file-00000000db8861f59d7688a4e4999db5.png" group-title="🎬 | 24/7 EL CHAVO 8",24/7 | EL CHAVO 8.
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
@@ -233,7 +233,7 @@ http://libertadtv.lat:8080/L1JHKzZNY3FoblUxTTVkQXpGaUd1MEY4ck9hQnd1dVBzWEVObm0wM
 http://libertadtv.lat:8080/bkNrR1lpN1BvSTI0RzAyZG1EVGQrYTFwUmt5bTJJVjVZY0IzWmtFOFBvbG1FRFBTMEl4VGNvY0E4S3pGMzhvUw
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="LAME | ARGENTINA ",ARG: EL TRECE (CANAL 13)
 http://libertadtv.lat:8080/L1JHKzZNY3FoblUxTTVkQXpGaUd1MEY4ck9hQnd1dVBzWEVObm0wM05oRStEZERJc2hrQVNxS093TzdFVjA2ZQ
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://i.postimg.cc/hGLD449F/file-00000000db8861f59d7688a4e4999db5.png" group-title="🎬 | 24/7 CHAVO 8",24/7 | EL CHAVO 8.
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://i.postimg.cc/hGLD449F/file-00000000db8861f59d7688a4e4999db5.png" group-title="🎬 | 24/7 EL CHAVO 8",24/7 | EL CHAVO 8.
 http://rlatinop.com:8880/movie/waymap446/C5ypTRfRYv3d/272187.mp4
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los simpson 1-7" tvg-logo="http://redworld.pro:8880/images/26734174d0c7e8e4674f23bd2e3233f1.jpg" group-title="✅ 24/7 LOS SIMPSON",24/7 Los simpson 1-7
 http://rlatinop.com:8880/waymap446/C5ypTRfRYv3d/526376
