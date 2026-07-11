@@ -246,7 +246,7 @@ http://rlatinop.com:8880/waymap446/C5ypTRfRYv3d/526379
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson 29-34" tvg-logo="http://redworld.pro:8880/images/26734174d0c7e8e4674f23bd2e3233f1.jpg" group-title="✅ 24/7 LOS SIMPSON",24/7 Los Simpson 29-34
 http://rlatinop.com:8880/waymap446/C5ypTRfRYv3d/526380
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA ",ARG: TELEFE
-http://rlatinop.com:8880/waymap446/C5ypTRfRYv3d/490451
+http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TN" tvg-logo="https://docdog.top/logo/countries//argentina/tn-todo-noticias-ar.png" group-title="LAME | ARGENTINA ",ARG: TN
 http://rlatinop.com:8880/waymap446/C5ypTRfRYv3d/490437
 #EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV" tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA ",ARG: AMERICA TV
