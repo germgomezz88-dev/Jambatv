@@ -98,9 +98,33 @@ http://rlatinop.com:8880/Lalo2/HSBYJbjeZKSe/526379
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson 29-34 op2" tvg-logo="http://redworld.pro:8880/images/26734174d0c7e8e4674f23bd2e3233f1.jpg" group-title="Los Simpson",24/7 Los Simpson 29-34
 http://rlatinop.com:8880/Lalo2/HSBYJbjeZKSe/526380
 
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="http://redworld.pro:8880/images/26734174d0c7e8e4674f23bd2e3233f1.jpg" group-title="TELEFE",TELEFE
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://docdog.top/logo/countries/argentina/telefe-ar.png" group-title="TELEFE",TELEFE
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4807
 
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE OP2" tvg-logo="http://redworld.pro:8880/images/26734174d0c7e8e4674f23bd2e3233f1.jpg" group-title="TELEFE",TELEFE
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE OP2" tvg-logo="https://docdog.top/logo/countries/argentina/telefe-ar.png" group-title="TELEFE",TELEFE
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry poterr piedra filosofal" tvg-logo="https://i.pinimg.com/474x/09/b0/b3/09b0b3c8755565f7b1c5f24ee2f9368d.jpg" group-title="Harry Potter",Harry poterr piedra filosofal
+https://vimeos.zip/hls2/03/00003/owsz4vp06314_n/index-v1-a1.m3u8?t=XhV3T5YvlSKyuaZgSi2PxWW6kxv_ffsHRbMkVSMiao8&s=1784986409&e=43200&v=302289476&srv=s12&i=0.0&sp=0&r=e
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry poterr cámara secreta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTHBzI8oRPHlojSBRLkS3P8qAXqf9rKsuDDd0efbyEhQ&s=10" group-title="Harry Potter",Harry poterr cámara secreta
+https://p4.vimeos.zip/hls2/03/00009/ss600wo96gw1_,n,h,.urlset/master.m3u8?t=6ap3eDFDdlLMQUpkVvh7K-QUUMa4vrbDQ85hwx_uqcY&s=1784985844&e=43200&v=302285717&srv=s8&i=0.0&sp=0&fr=ss600wo96gw1&r=e
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry potter cadiz de fuego" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJjZDUwNzMtNzcyMC00NWQ0LTgzMTgtMzJhODBiMGM1MmRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Harry Potter",Harry potter cadiz de fuego
+https://s12.vimeos.net/hls2/03/00003/sv4y9sn8qyah_n/index-v1-a1.m3u8?t=eVnrKZQa0m66HsNsyOzV4H16pIYpXMgLoYmfaAqiP2w&s=1784985570&e=43200&v=302283859&i=0.0&sp=0&r=e
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry potter y el misterio del principipe" tvg-logo="https://images.justwatch.com/poster/179690384/s718/harry-potter-y-el-misterio-del-principe.jpg" group-title="Harry Potter",Harry potter y el misterio del principipe
+https://s14.vimeos.net/hls2/02/00000/pi9y43ghwq37_n/index-v1-a1.m3u8?t=ae_XzKc5qNgdgxSSCCQarPRhjiDTLH053xnntJdFrEk&s=1784986114&e=43200&v=302287481&i=0.0&sp=0&r=e
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry potter y la orden de fenix" tvg-logo="https://m.media-amazon.com/images/I/81YKmn+IV3L._AC_UF894,1000_QL80_.jpg" group-title="Harry Potter",Harry potter y la orden de fenix
+https://s10.vimeos.net/hls2/03/00000/giucppy68pb9_n/index-v1-a1.m3u8?t=Fq9IDT4UJd2OlEKU0QJGchbaz7XX0vTpkGZj0iB_Kas&s=1784986287&e=43200&v=302288534&i=0.0&sp=0&r=e
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry potter y el prisionero de Azkaban" tvg-logo="https://image.tmdb.org/t/p/original/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg" group-title="Harry Potter",Harry potter y el prisionero de Azkaban
+https://s8.vimeos.net/hls2/02/00003/v3hi7fx90krj_n/index-v1-a1.m3u8?t=3llYFC1-6DVVZbZhOl4a3lGPvsd12BsSmKw7xy7jUvQ&s=1785026141&e=43200&v=301764856&i=0.0&sp=0&r=e
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry potter y las reliquias de la muerte P1" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d41d911189bb4b7ce08ce980e2ea187dbfca3e600d42a860f191345ddcc1efef.jpg" group-title="Harry Potter",Harry potter y las reliquias de la muerte P1
+https://vimeos.zip/hls2/02/00003/q1qt57zyj0su_n/index-v1-a1.m3u8?t=9cGeS4skwv-VevG-4d7Uy0YHJORplpIjlboLVTSHRV4&s=1785026432&e=43200&v=302822512&srv=s14&i=0.3&sp=0&r=e
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry potter y las reliquias de la muerte P2" tvg-logo="https://i.pinimg.com/736x/5e/99/5c/5e995c19aff97070c526c85b1d806a6a.jpg" group-title="Harry Potter",Harry potter y las reliquias de la muerte P2
+https://s14.vimeos.net/hls2/02/00003/zmqjorxt26dy_n/index-v1-a1.m3u8?t=WOaxlbXLmCFPs3QLyfa-lnn9jxX7rlupoJQgPlcLPkk&s=1785026639&e=43200&v=302826382&i=0.3&sp=0&r=e
 
