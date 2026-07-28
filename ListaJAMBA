@@ -10,51 +10,6 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/251
 #EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="D Sport",ARG: DIRECTV SPORTS
 http://rlatinop.com:8880/waymap446/C5ypTRfRYv3d/527230
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="D Sport",ARG: DIRECTV SPORTS +
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4749
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="D Sport",ARG: DIRECTV SPORTS 2
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4750
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ESPN",ARG: ESPN
-http://libertadtv.lat:8080/L1JHKzZNY3FoblUxTTVkQXpGaUd1Mm9PZXFIYkp4RGczblhxU1cxdTRTRkJpTjhJKzg1cDF3ZzZhQUViT200bQ
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="ESPN+",ARG: ESPN 2
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4758
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="ESPN+",ARG: ESPN 3
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4759
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ESPN+",ARG: ESPN+
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4760
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="Fox Sport",ARG: FOX SPORTS 1
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4764
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="Fox Sport",ARG: FOX SPORTS 2
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4765
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="Fox Sport",ARG: FOX SPORTS 3
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4766
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="Fox Sport",ARG: FOX SPORTS PREMIUM
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4767
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="Tnt Sport",ARG: TNT SPORTS
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4815
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Tyc sports Internacional" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="Tyc Sport",ARG: Tyc sports Internacional
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4821
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="Tyc Sport",ARG: TYC SPORTS
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4822
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="ESPN",ARG: ESPN PREMIUM
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4828
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="D Sport",ARG: DIRECTV SPORTS
-http://rlatinop.com:8880/waymap446/C5ypTRfRYv3d/532986
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://i.postimg.cc/hGLD449F/file-00000000db8861f59d7688a4e4999db5.png" group-title="El chavo del 8",24/7 | EL CHAVO 8.
 https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
@@ -97,12 +52,6 @@ http://rlatinop.com:8880/Lalo2/HSBYJbjeZKSe/526379
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson 29-34 op2" tvg-logo="http://redworld.pro:8880/images/26734174d0c7e8e4674f23bd2e3233f1.jpg" group-title="Los Simpson",24/7 Los Simpson 29-34
 http://rlatinop.com:8880/Lalo2/HSBYJbjeZKSe/526380
-
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://docdog.top/logo/countries/argentina/telefe-ar.png" group-title="TELEFE",TELEFE
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4807
-
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE OP2" tvg-logo="https://docdog.top/logo/countries/argentina/telefe-ar.png" group-title="TELEFE",TELEFE
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Harry poterr piedra filosofal" tvg-logo="https://i.pinimg.com/474x/09/b0/b3/09b0b3c8755565f7b1c5f24ee2f9368d.jpg" group-title="Harry Potter",Harry poterr piedra filosofal
 https://vimeos.zip/hls2/03/00003/owsz4vp06314_n/index-v1-a1.m3u8?t=XhV3T5YvlSKyuaZgSi2PxWW6kxv_ffsHRbMkVSMiao8&s=1784986409&e=43200&v=302289476&srv=s12&i=0.0&sp=0&r=e
