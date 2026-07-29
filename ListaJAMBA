@@ -101,3 +101,6 @@ http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvSVJ1c2xxenhkejdlSWdtZnpSb
 http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvTDBCdGRxVWtGWGFOVXFISVIveWdUcz0
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Buen Doctor HD" tvg-logo="" group-title="God Doctor 24/7",24/7 El Buen Doctor HD
 http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvRktVUS9BbXpWZW1UMkVZZjB4R2ZZZz0
+
+#EXTINF:-1 tvg-id="Telefe" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries/argentina/telefe.png" group-title="CANALES AIRE",ARG: TELEFE HD
+https://live-01-02-telefe.akamaized.net/content/hls/live/2041285/tlf/master.m3u8
