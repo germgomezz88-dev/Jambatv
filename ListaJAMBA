@@ -107,3 +107,8 @@ https://live-01-02-telefe.akamaized.net/content/hls/live/2041285/tlf/master.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-name="ARG: TN" tvg-logo="https://docdog.top/logo/countries/argentina/tn.png" group-title="NOTICIAS",ARG: TN (NOTICIAS)
 https://live-01-02-tn.akamaized.net/hls/live/2015902/tn/master.m3u8
+
+#EXTINF:-1 tvg-id="C5N" tvg-name="ARG: C5N" tvg-logo="https://docdog.top/logo/countries/argentina/c5n.png" group-title="NOTICIAS",ARG: C5N
+https://live-01-01-c5n.akamaized.net/hls/live/2015897/c5n/master.m3u8
+
+ 
