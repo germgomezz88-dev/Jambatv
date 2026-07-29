@@ -104,3 +104,6 @@ http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvRktVUS9BbXpWZW1UMkVZZjB4R
 
 #EXTINF:-1 tvg-id="Telefe" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries/argentina/telefe.png" group-title="CANALES AIRE",ARG: TELEFE HD
 https://live-01-02-telefe.akamaized.net/content/hls/live/2041285/tlf/master.m3u8
+
+#EXTINF:-1 tvg-id="TN" tvg-name="ARG: TN" tvg-logo="https://docdog.top/logo/countries/argentina/tn.png" group-title="NOTICIAS",ARG: TN (NOTICIAS)
+https://live-01-02-tn.akamaized.net/hls/live/2015902/tn/master.m3u8
