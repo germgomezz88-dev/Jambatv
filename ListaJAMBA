@@ -91,3 +91,9 @@ http://tv.zeuspro.xyz:8080/live/yas2510/CWemdbrjGe/165364
 
 EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - Chicago Fire Temp. 8al14 (e)(720)(Dual Audio)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/8Lwn0r6wPDxmXcD4aN3yr71KhvL.jpg" group-title="24_7 Chicago",24/7 Series Crimen - Chicago Fire Temp. 8al14 (e)(720)(Dual Audio)
 http://tv.zeuspro.xyz:8080/live/yas2510/CWemdbrjGe/165361.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - La Ley y el Orden: Crimen Organizado (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/ao2ybmFWpRXmb4A1PePOjBCEsxU.jpg" group-title="24_7 La ley y el orden",24/7 Series Crimen - La Ley y el Orden: Crimen Organizado (e)(720)
+http://tv.zeuspro.xyz:8080/live/yas2510/CWemdbrjGe/165480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Crimen - La Ley y el Orden: U.V.C (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/9xxLWtnFxkpJ2h1uthpvCRK6vta.jpg" group-title="24_7 La ley y el orden",24/7 Series Crimen - La Ley y el Orden: U.V.C (e)(720)
+http://tv.zeuspro.xyz:8080/live/yas2510/CWemdbrjGe/165479.m3u8
