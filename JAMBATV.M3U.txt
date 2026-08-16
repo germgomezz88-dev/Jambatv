@@ -178,7 +178,7 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4805
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TCM" tvg-logo="https://docdog.top/logo/countries//argentina/tcm-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TCM
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4806
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA ",ARG: TELEFE
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4807
+https://tvlibreonline.tv/html/fl/?get=VGVsZWZlSEQ=
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMAX" tvg-logo="https://docdog.top/logo/countries//argentina/telemax-ar.png" group-title="LAME | ARGENTINA ",ARG: TELEMAX
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4808
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMUNDO" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEMUNDO
