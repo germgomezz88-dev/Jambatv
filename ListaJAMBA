@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="ARGENTINA",ARG: TELEFE
+http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4807
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV" tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="ARGENTINA",ARG: AMERICA TV
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4723
 
