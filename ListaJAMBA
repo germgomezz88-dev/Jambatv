@@ -9,7 +9,7 @@ http://livetv-plus.com:8880/dUowdWJzYjlZUDJoMnF4c2QzNlNrbXZxL3FueXNqamlPTFFBQXBZ
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4728
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="ARGENTINA",ARG: EL TRECE (CANAL 13)
-http://livetv-plus.com:8880/dUowdWJzYjlZUDJoMnF4c2QzNlNrdW13WTR2VVc0RlFoVWpkUTdNYlluVnQ3bjVtbFB0T2tkekJoK245SGhKVA
+https://embed.saohgdassregions.com/embed2/eltrece.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL9.png" group-title="ARGENTINA",ARG: EL NUEVE (CANAL 9)
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4734
@@ -54,7 +54,7 @@ http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4781
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4784
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: SPACE" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="ARGENTINA",ARG: SPACE
-http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4802
+https://embed.saohgdassregions.com/embed2/space.php
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMAX" tvg-logo="https://docdog.top/logo/countries//argentina/telemax-ar.png" group-title="ARGENTINA",ARG: TELEMAX
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4808
