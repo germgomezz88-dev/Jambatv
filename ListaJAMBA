@@ -11,14 +11,14 @@ http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvSjh2eWdmV3pjaXJESnpDekdNb
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="ARGENTINA",ARG: EL TRECE (CANAL 13)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL9.png" group-title="ARGENTINA",ARG: EL NUEVE (CANAL 9)
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://share.google/TiCy0lyLHtOnscf54" group-title="ARGENTINA",ARG: EL NUEVE (CANAL 9)
 http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvSHJIRkxGNEU2QUFiRUdEQ01vUnZpdz0
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="ARGENTINA",ARG: CINEMAX
 http://45.167.1.136:8000/play/a04m
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="ARGENTINA",ARG: CRONICA
-https://www.youtube.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g/live?app=desktop
+https://www.youtube.com/embed/hw4uHyct4vg?si=mzWutFbZasDwKFRM&autoplay=1&mute=1
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="DEPORTES ARGENTINA",ARG: DIRECTV SPORTS
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4748
