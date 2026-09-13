@@ -14,7 +14,7 @@ http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvSjh2eWdmV3pjaXJESnpDekdNb
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/960px-Canal13_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ARGENTINA",ARG: EL TRECE (CANAL 13)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://share.google/TiCy0lyLHtOnscf54" group-title="ARGENTINA",ARG: EL NUEVE (CANAL 9)
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="ARGENTINA",ARG: EL NUEVE (CANAL 9)
 http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/15881.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="ARGENTINA",ARG: CINEMAX
@@ -35,7 +35,7 @@ http://superxlatino.com:8880/live/Sebastian01/e2qG2asAUuHZ/327915.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="DEPORTES ARGENTINA",ARG: ESPN 3
 http://superxlatino.com:8880/live/Sebastian01/e2qG2asAUuHZ/327916.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="DEPORTES ARGENTINA",ARG: FOX SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://images.seeklogo.com/logo-png/66/1/fox-sports-argentina-logo-png_seeklogo-660138.png" group-title="DEPORTES ARGENTINA",ARG: FOX SPORTS 1
 http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/211219.ts
 
 
@@ -45,7 +45,7 @@ http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/322820.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: LN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqtZB_6WG36RuIrX7Npa_XgoeV-KK74HcQ7m9xWQcKI7E=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",ARG: LN
 http://liontv.es:8080/live/RobertoArce/pZbSDnRqam/1978218.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO XTREME" tvg-logo="" group-title="ARGENTINA",ARG: HBO XTREME
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO XTREME" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ARGENTINA",ARG: HBO XTREME
 http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/322823.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: SPACE" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="ARGENTINA",ARG: SPACE
@@ -70,10 +70,10 @@ http://liontv.es:8080/live/RobertoArce/pZbSDnRqam/334271.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: VOLVER" tvg-logo="https://docdog.top/logo/countries//argentina/volver-ar.png" group-title="ARGENTINA",ARG: VOLVER
 http://31.43.191.125:8080/VIP013831754722155541/cc000344a652/4825
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="DEPORTES ARGENTINA",ARG: ESPN PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="https://www.ncoop.com.ar/wp-content/uploads/2026/08/logosgrilla-1.png" group-title="DEPORTES ARGENTINA",ARG: ESPN PREMIUM
 http://liontv.es:8080/live/RobertoArce/pZbSDnRqam/1384510.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="DEPORTES ARGENTINA",ARG: ESPN PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="https://www.ncoop.com.ar/wp-content/uploads/2026/08/logosgrilla-1.png" group-title="DEPORTES ARGENTINA",ARG: ESPN PREMIUM
 https://streamtp-golden1.click/global1.php?stream=disney13
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: LN+" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqtZB_6WG36RuIrX7Npa_XgoeV-KK74HcQ7m9xWQcKI7E=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA ",ARG: LN+
@@ -84,13 +84,13 @@ http://liontv.es:8080/live/RobertoArce/pZbSDnRqam/1978218.ts
 http://liontv.es:8080/live/RobertoArce/pZbSDnRqam/783627.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://static.wikia.nocookie.net/teniaqueserlawikidelchavo/images/0/06/Chavoposter.jpg" group-title="El chavo del 8",24/7 | EL CHAVO 8.
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://images.seeklogo.com/logo-png/38/1/el-chavo-del-8-logo-png_seeklogo-389658.png" group-title="El chavo del 8",24/7 | EL CHAVO 8.
 https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://static.wikia.nocookie.net/teniaqueserlawikidelchavo/images/0/06/Chavoposter.jpg" group-title="El chavo del 8",24/7 | EL CHAVO 8.
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://images.seeklogo.com/logo-png/38/1/el-chavo-del-8-logo-png_seeklogo-389658.png" group-title="El chavo del 8",24/7 | EL CHAVO 8.
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="http://lun4r7ev3.click:80/images/re1Wd84uFxD7Jj8Uv0PMpjva3j8USD5PbiNvHVM9QG7ozXuTySbu_-1a1v8kQLVTMC-lOYnmw2tOfC22nFQpQ6ZRUrul7eBOhh_SYO6FMFNcHGM9eh74GWsqY6ndjAskFPW5QanPa51gq1LGryWlyQ.jpg" group-title="El chavo del 8",24/7 | EL CHAVO 8.
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO 8." tvg-logo="https://images.seeklogo.com/logo-png/38/1/el-chavo-del-8-logo-png_seeklogo-389658.png" group-title="El chavo del 8",24/7 | EL CHAVO 8.
 http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/281153.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los simpson 1-7" tvg-logo="http://redworld.pro:8880/images/26734174d0c7e8e4674f23bd2e3233f1.jpg" group-title="Los Simpson",24/7 Los simpson 1-7
