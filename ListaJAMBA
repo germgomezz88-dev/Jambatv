@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="ARGENTINA",ARG: TELEFE
-http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvSzN2Tk5vZVJGQkt5ZnFEMUdEaW90Yz0
+https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/9fe8dbb4-69c7-473b-906e-f7a6fe65029b:MRN2/master.m3u8?aid=69dfb44d09ecc98dc876969f&uid=JY41HiXCycORHBomlg2p4H49IBgEvN5j&sid=R840EpIYIKEpYXSf0ytGDwh5QXZEyBu9&pid=53Ro4FUJi04RhAKgZS59oNiWyeCgZFMb&pid_dvr=bAypymFKWHC6GDBd7ascbN79xCTO98hc&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=7tJMipaSzlQ3vaLZJ3uFlEQw8vCjvEXM0odP2gCM3vAnAgox7VHiagwaU2m7yZhOhVyoUMYejHs&adInsertionGoogleStreamId=9fe8dbb4-69c7-473b-906e-f7a6fe65029b%3AMRN2&CMCD=cid%3D%226a024684fd4ca6a938f3a118%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2253Ro4FUJi04RhAKgZS59oNiWyeCgZFMb%22%2Csu&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1789788568385&ot=or3pJ5Wohr0v4WRoOpMFJQ&proto=https&pz=us
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE op2" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="ARGENTINA",ARG: TELEFE op2
 http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/61546.ts
