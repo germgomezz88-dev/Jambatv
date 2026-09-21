@@ -14,6 +14,10 @@ http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvSjh2eWdmV3pjaXJESnpDekdNb
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/960px-Canal13_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ARGENTINA",ARG: EL TRECE (CANAL 13)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE op2 (CANAL 13)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/960px-Canal13_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ARGENTINA",ARG: EL TRECE (CANAL 13)
+http://planettvweb.com:8091/NestorFernandez/NF0856/11862
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="ARGENTINA",ARG: EL NUEVE (CANAL 9)
 http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/15881.ts
 
