@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="ARGENTINA",ARG: TELEFE
-http://starlatino.tv:8880/kevin5239@/PSFZBncgkEyU/490458
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/181625.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE op2" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="ARGENTINA",ARG: TELEFE op2
 http://wbgs.mitvlatino.club:8089/live/F30908020/H208040/449.ts
