@@ -20,7 +20,7 @@ http://planettvweb.com:8091/NestorFernandez/NF0856/11901
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="ARGENTINA",ARG: EL NUEVE (CANAL 9)
-http://ak-47scan.dyndns.tv:25461/live/JoseNa36/guAkvA2bHYvQ/528606.ts
+http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/15881.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="ARGENTINA",ARG: CINEMAX
 http://45.167.1.136:8000/play/a04m
