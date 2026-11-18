@@ -36,7 +36,10 @@ http://ak-47scan.dyndns.tv:25461/live/JoseNa36/guAkvA2bHYvQ/633067.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="DEPORTES ARGENTINA",ARG: DIRECTV SPORTS
 http://ak-47scan.dyndns.tv:25461/live/JoseNa36/guAkvA2bHYvQ/630695.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="DEPORTES ARGENTINA",ARG: ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="DEPORTES ARGENTINA",ARG: ESPN 
+http://saiyaancorp.com:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/1321370.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN op2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="DEPORTES ARGENTINA",ARG: ESPN op2
 http://190.93.224.42/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="DEPORTES ARGENTINA",ARG: ESPN 2
